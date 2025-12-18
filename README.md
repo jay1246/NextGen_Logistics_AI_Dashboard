@@ -68,4 +68,8 @@ cd nexgen-logistics-dashboard
 pip install -r requirements.txt
 
 # Run the dashboard
+<<<<<<< HEAD
 streamlit run app.py
+=======
+streamlit run app.py
+>>>>>>> 97046d278c48d1ddafc89046eb86e2921c9d597f
