@@ -47,7 +47,7 @@ A comprehensive, real-time logistics operations dashboard that transforms raw da
 
 ## 🌐 Live Demo
 
-Access the deployed dashboard: [https://nexgen-logistics.streamlit.app](https://nexgen-logistics.streamlit.app)
+Access the deployed dashboard: [Streamlit App](https://jay1246-nextgen-logistics-ai-dashboard-app-vyod9l.streamlit.app/)
 
 > **Note**: Demo uses sample data. For full functionality, deploy with your own data.
 
